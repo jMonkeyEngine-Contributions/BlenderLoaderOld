@@ -30,3 +30,6 @@ hs_err_pid*
 
 # Build Output
 build/
+
+# Keep the Gradle Wrapper
+!gradle/wrapper/gradle-wrapper.jar
